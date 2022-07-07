@@ -26,7 +26,7 @@ Original District Summary Image
   - The passing math score within the challenge data set is 74.8
   - The passing reading score within the challenge data set is 85.7
   - The overall passing score within the challenge data set is 64.9
- 
+
 *See image below:*
  
 Challenge District Summary Image

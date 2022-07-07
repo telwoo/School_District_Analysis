@@ -34,6 +34,18 @@ Challenge District Summary Image
 
 
 - How is the school summary affected?
+  - Within the original and challenge data set, there appears to be no substantial difference. 
+
+*see image(s) below:*
+
+Original School Summary Image
+<img width="990" alt="per_school_summary_original" src="https://user-images.githubusercontent.com/106715923/177845184-08c8530a-9f52-4066-8ecc-a3b63a501336.png">
+
+
+Challenge School Summary Image
+<img width="1001" alt="per_school_summary_challenge" src="https://user-images.githubusercontent.com/106715923/177845214-ed31a3bc-acbc-4995-b93e-208e162c8b0f.png">
+
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade

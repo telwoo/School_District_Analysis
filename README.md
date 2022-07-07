@@ -61,6 +61,8 @@ Challenge School Summary Image
 
 - How does replacing the ninth-grade scores affect the following:
    - Math and reading scores by grade
+    - Similar to the details abaove, there were no specific changes that were made to the reading or math scores,         aside from the NaN for the challenge scores.
+   
    - Scores by school spending
     - There were no changes made from original data type to the challenge data set. Except for the decimals.
 
@@ -97,6 +99,7 @@ Challenge School Size
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth
-1. 
+1. The main changes within the the math and reading score; the percentage differences were outlined less than .04%
+2. The overall passing score challenge was 64.9% while the overall passing score original was 65%.
 
 

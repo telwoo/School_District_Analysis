@@ -34,7 +34,7 @@ Challenge District Summary Image
 
 
 - How is the school summary affected?
-  - Within the original and challenge data set, there appears to be no substantial difference. 
+  -   Within the original and challenge data set, there appears to be no substantial difference. 
 
 *see image(s) below:*
 
@@ -47,7 +47,7 @@ Challenge School Summary Image
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - The original math shows 83.59 and the challenge showed as NaN
+  -   The original math shows 83.59 and the challenge showed as NaN
  
  Original Ninth Math Score
  
@@ -62,11 +62,11 @@ Challenge School Summary Image
   - The original and challege score for reading also showed NaN for challenge and 83.83
 
 - How does replacing the ninth-grade scores affect the following:
-   - Math and reading scores by grade
-    - Similar to the details abaove, there were no specific changes that were made to the reading or math scores,         aside from the NaN for the challenge scores.
+   - Math and reading scores by grade:
+    1. Similar to the details abaove, there were no specific changes that were made to the reading or math scores,         aside from the NaN for the challenge scores.
    
    - Scores by school spending
-    - There were no changes made from original data type to the challenge data set. Except for the decimals.
+    1. There were no changes made from original data type to the challenge data set. Except for the decimals.
 
 *see image(s) below:*
 
@@ -79,7 +79,7 @@ Challenge School Spending
 
 
    - Scores by school size
-    - There were changes made from original data type to the challenge data set.
+      1. There were changes made from original data type to the challenge data set.
 
 *see image(s) below:*
 
@@ -92,7 +92,7 @@ Challenge School Size
 
 
    - Scores by school type
-    - There were changes made from original data type to the challenge data set.
+      1. There were changes made from original data type to the challenge data set.
  
  *see image(s) below:*
  

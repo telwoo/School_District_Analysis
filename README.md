@@ -50,10 +50,12 @@ Challenge School Summary Image
   - The original math shows 83.59 and the challenge showed as NaN
  
  Original Ninth Math Score
+ 
  <img width="327" alt="math_score_ninth_original" src="https://user-images.githubusercontent.com/106715923/177852102-416d3c4f-02b0-4749-a9e3-5e8ad6daf2f9.png">
 
  
  Challenge Ninth Math Score
+ 
  <img width="444" alt="math_score_ninth_challenge" src="https://user-images.githubusercontent.com/106715923/177852216-ab51d8eb-11b0-4dc9-9a04-91d54d7b38aa.png">
 
 
@@ -66,6 +68,8 @@ Challenge School Summary Image
    - Scores by school spending
     - There were no changes made from original data type to the challenge data set. Except for the decimals.
 
+*see image(s) below:*
+
 Original School Spending
 <img width="830" alt="school_spending_original" src="https://user-images.githubusercontent.com/106715923/177856675-9c3eea2c-5d92-4447-8d44-ebdbfbd4c3c9.png">
 
@@ -76,6 +80,8 @@ Challenge School Spending
 
    - Scores by school size
     - There were changes made from original data type to the challenge data set.
+
+*see image(s) below:*
 
 Original School Size
 <img width="767" alt="school_size_original" src="https://user-images.githubusercontent.com/106715923/177856213-7ebdafa3-03bb-4a5f-a0b2-b92e8dac835f.png">
@@ -88,6 +94,8 @@ Challenge School Size
    - Scores by school type
     - There were changes made from original data type to the challenge data set.
  
+ *see image(s) below:*
+ 
  Original School Type Image
  <img width="723" alt="school_type_original" src="https://user-images.githubusercontent.com/106715923/177855765-ca9375c5-156d-4969-8d70-b65d35642c5f.png">
 
@@ -99,7 +107,9 @@ Challenge School Size
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth
-1. The main changes within the the math and reading score; the percentage differences were outlined less than .04%
+1. The main changes within the math score had the percentage differences were outlined less than .04%
 2. The overall passing score challenge was 64.9% while the overall passing score original was 65%.
+3. The main changes within the reading score had the percentage differences were outlined less than .04%
+4. Thomas High School shows a slight upward value (positive) when the math and reading score is removed.
 
 
